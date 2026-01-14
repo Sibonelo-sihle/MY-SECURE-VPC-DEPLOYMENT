@@ -4,7 +4,7 @@
 The goal of this project was to design and implement a Virtual Private Cloud (VPC) supporting a secure, tiered architecture. The design ensures that resources in a private subnet can access the internet for updates via a NAT Gateway, while remaining protected from direct inbound public traffic.
 
 ## Architecture Diagram
-![Architecture Diagram](./architecture-diagram.png) 
+
 *(Note: Ensure your exported diagram image is named 'architecture-diagram.png' and is in the same folder)*
 
 ## Technical Specifications
