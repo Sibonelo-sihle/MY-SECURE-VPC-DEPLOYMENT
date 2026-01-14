@@ -5,7 +5,7 @@ The goal of this project was to design and implement a Virtual Private Cloud (VP
 
 ## Architecture Diagram
 
-*(Note: Ensure your exported diagram image is named 'architecture-diagram.png' and is in the same folder)*
+COMING SOON
 
 ## Technical Specifications
 - **VPC CIDR:** 10.0.0.0/16
